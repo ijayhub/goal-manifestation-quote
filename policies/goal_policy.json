@@ -4,7 +4,7 @@
         {
             "Effect": "Allow",
             "Action": "sns:Publish",
-            "Resource": "arn:aws:sns:REGION:ACCOUNT_ID:gd_topic"
+            "Resource": "arn:aws:sns:REGION:ACCOUNT_ID:goal_topic"
         }
     ]
 }
